@@ -74,7 +74,7 @@ Neste projeto foram praticados conceitos importantes como:
 
 ```bash
 📁 projeto
- ┣ 📄 notebook.ipynb
+ ┣ 📄 selecao_features.ipynb
  ┣ 📄 README.md
 
 ```
